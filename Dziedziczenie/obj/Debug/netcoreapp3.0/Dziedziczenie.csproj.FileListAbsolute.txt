@@ -1,8 +1,0 @@
-C:\Users\pawel\Documents\GitHub\ps_055294\Dziedziczenie\bin\Debug\netcoreapp3.0\Dziedziczenie.deps.json
-C:\Users\pawel\Documents\GitHub\ps_055294\Dziedziczenie\bin\Debug\netcoreapp3.0\Dziedziczenie.dll
-C:\Users\pawel\Documents\GitHub\ps_055294\Dziedziczenie\bin\Debug\netcoreapp3.0\Dziedziczenie.pdb
-C:\Users\pawel\Documents\GitHub\ps_055294\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.csprojAssemblyReference.cache
-C:\Users\pawel\Documents\GitHub\ps_055294\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.AssemblyInfoInputs.cache
-C:\Users\pawel\Documents\GitHub\ps_055294\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.AssemblyInfo.cs
-C:\Users\pawel\Documents\GitHub\ps_055294\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.dll
-C:\Users\pawel\Documents\GitHub\ps_055294\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.pdb
