@@ -1,0 +1,14 @@
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\bin\Debug\netcoreapp3.0\ps_055294.exe
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\bin\Debug\netcoreapp3.0\ps_055294.deps.json
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\bin\Debug\netcoreapp3.0\ps_055294.runtimeconfig.json
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\bin\Debug\netcoreapp3.0\ps_055294.runtimeconfig.dev.json
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\bin\Debug\netcoreapp3.0\ps_055294.dll
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\bin\Debug\netcoreapp3.0\ps_055294.pdb
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\bin\Debug\netcoreapp3.0\Dziedziczenie.dll
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\bin\Debug\netcoreapp3.0\Dziedziczenie.pdb
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\obj\Debug\netcoreapp3.0\ps_055294.csprojAssemblyReference.cache
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\obj\Debug\netcoreapp3.0\ps_055294.AssemblyInfoInputs.cache
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\obj\Debug\netcoreapp3.0\ps_055294.AssemblyInfo.cs
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\obj\Debug\netcoreapp3.0\ps_055294.csproj.CopyComplete
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\obj\Debug\netcoreapp3.0\ps_055294.dll
+C:\Users\pawel\Documents\GitHub\ps_055294\ps_055294\obj\Debug\netcoreapp3.0\ps_055294.pdb

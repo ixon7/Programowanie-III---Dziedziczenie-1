@@ -1,0 +1,44 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\pawel\\Documents\\GitHub\\ps_055294\\ps_055294\\ps_055294.csproj",
+    "projectName": "ps_055294",
+    "projectPath": "C:\\Users\\pawel\\Documents\\GitHub\\ps_055294\\ps_055294\\ps_055294.csproj",
+    "outputPath": "C:\\Users\\pawel\\Documents\\GitHub\\ps_055294\\ps_055294\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "C:\\Users\\pawel\\Documents\\GitHub\\ps_055294\\Dziedziczenie\\Dziedziczenie.csproj": {
+            "projectPath": "C:\\Users\\pawel\\Documents\\GitHub\\ps_055294\\Dziedziczenie\\Dziedziczenie.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
