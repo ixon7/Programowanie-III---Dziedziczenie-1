@@ -1,0 +1,8 @@
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\Dziedziczenie\bin\Debug\netcoreapp3.0\Dziedziczenie.deps.json
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\Dziedziczenie\bin\Debug\netcoreapp3.0\Dziedziczenie.dll
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\Dziedziczenie\bin\Debug\netcoreapp3.0\Dziedziczenie.pdb
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.csprojAssemblyReference.cache
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.AssemblyInfoInputs.cache
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.AssemblyInfo.cs
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.dll
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\Dziedziczenie\obj\Debug\netcoreapp3.0\Dziedziczenie.pdb

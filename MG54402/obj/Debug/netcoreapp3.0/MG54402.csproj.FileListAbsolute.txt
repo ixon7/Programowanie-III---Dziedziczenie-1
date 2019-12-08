@@ -1,0 +1,14 @@
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\bin\Debug\netcoreapp3.0\MG54402.exe
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\bin\Debug\netcoreapp3.0\MG54402.deps.json
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\bin\Debug\netcoreapp3.0\MG54402.runtimeconfig.json
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\bin\Debug\netcoreapp3.0\MG54402.runtimeconfig.dev.json
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\bin\Debug\netcoreapp3.0\MG54402.dll
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\bin\Debug\netcoreapp3.0\MG54402.pdb
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\bin\Debug\netcoreapp3.0\Dziedziczenie.dll
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\bin\Debug\netcoreapp3.0\Dziedziczenie.pdb
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\obj\Debug\netcoreapp3.0\MG54402.csprojAssemblyReference.cache
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\obj\Debug\netcoreapp3.0\MG54402.AssemblyInfoInputs.cache
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\obj\Debug\netcoreapp3.0\MG54402.AssemblyInfo.cs
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\obj\Debug\netcoreapp3.0\MG54402.csproj.CopyComplete
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\obj\Debug\netcoreapp3.0\MG54402.dll
+C:\Users\Gosia\source\repos\Programowanie-III---Dziedziczenie-master\MG54402\obj\Debug\netcoreapp3.0\MG54402.pdb
