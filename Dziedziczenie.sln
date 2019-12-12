@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dziedziczenie", "Dziedzicze
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dziedziczenie22", "Dziedziczenie22\Dziedziczenie22.csproj", "{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OT054491", "OT054491\OT054491.csproj", "{9756F289-5D07-48A6-9FBD-3A4CF32EC284}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB054377", "LB054377\LB054377.csproj", "{5584CD3E-BFF6-4ED3-B065-AEF023621E94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9756F289-5D07-48A6-9FBD-3A4CF32EC284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9756F289-5D07-48A6-9FBD-3A4CF32EC284}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9756F289-5D07-48A6-9FBD-3A4CF32EC284}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9756F289-5D07-48A6-9FBD-3A4CF32EC284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5584CD3E-BFF6-4ED3-B065-AEF023621E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5584CD3E-BFF6-4ED3-B065-AEF023621E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5584CD3E-BFF6-4ED3-B065-AEF023621E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5584CD3E-BFF6-4ED3-B065-AEF023621E94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
