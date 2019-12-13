@@ -6,7 +6,9 @@ namespace BF055758
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Samochod auto = new Samochod(250);
+            auto.Jedz();
+            auto.Jedz(300);
         }
     }
 }
