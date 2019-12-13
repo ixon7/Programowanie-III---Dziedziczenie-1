@@ -6,7 +6,8 @@ namespace PT054493
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Console.ReadKey();
         }
     }
 }
