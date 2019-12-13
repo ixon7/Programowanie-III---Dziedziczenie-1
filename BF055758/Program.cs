@@ -6,9 +6,11 @@ namespace BF055758
     {
         static void Main(string[] args)
         {
-            Samochod auto = new Samochod(250);
+            Samochod auto = new Samochod(250, 100);
             auto.Jedz();
             auto.Jedz(300);
+            auto.Laduj();
+            auto.Jedz(125);
         }
     }
 }
