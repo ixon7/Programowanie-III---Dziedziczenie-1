@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dziedziczenie", "Dziedzicze
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dziedziczenie22", "Dziedziczenie22\Dziedziczenie22.csproj", "{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LB054377", "LB054377\LB054377.csproj", "{5584CD3E-BFF6-4ED3-B065-AEF023621E94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LB054377", "LB054377\LB054377.csproj", "{5584CD3E-BFF6-4ED3-B065-AEF023621E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP054466", "LP054466\LP054466.csproj", "{0E136609-B0A2-4BAA-886C-0EB8B61001F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5584CD3E-BFF6-4ED3-B065-AEF023621E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5584CD3E-BFF6-4ED3-B065-AEF023621E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5584CD3E-BFF6-4ED3-B065-AEF023621E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E136609-B0A2-4BAA-886C-0EB8B61001F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E136609-B0A2-4BAA-886C-0EB8B61001F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E136609-B0A2-4BAA-886C-0EB8B61001F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E136609-B0A2-4BAA-886C-0EB8B61001F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
