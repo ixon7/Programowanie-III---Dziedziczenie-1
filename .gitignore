@@ -55,6 +55,7 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+**/Properties/launchSettings.json
 
 # StyleCop
 StyleCopReport.xml
@@ -62,6 +63,7 @@ StyleCopReport.xml
 # Files built by Visual Studio
 *_i.c
 *_p.c
+*_i.h
 *_h.h
 *.ilk
 *.meta
@@ -295,6 +297,8 @@ paket-files/
 .idea/
 *.sln.iml
 
+# CodeRush
+.cr/
 # CodeRush personal settings
 .cr/personal
 
