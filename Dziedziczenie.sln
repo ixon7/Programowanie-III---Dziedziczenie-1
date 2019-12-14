@@ -7,7 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dziedziczenie", "Dziedzicze
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dziedziczenie22", "Dziedziczenie22\Dziedziczenie22.csproj", "{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "051350", "051350\051350\051350.csproj", "{F35A7B2A-B181-40AE-9E56-5B27C4F8ED8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "051350", "051350\051350.csproj", "{57AB18D8-1C61-4CD9-B99F-4B04F59CABAF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{27EC5307-4930-4821-9DD6-58D6D181A300} = {27EC5307-4930-4821-9DD6-58D6D181A300}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +26,10 @@ Global
 		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F35A7B2A-B181-40AE-9E56-5B27C4F8ED8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F35A7B2A-B181-40AE-9E56-5B27C4F8ED8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F35A7B2A-B181-40AE-9E56-5B27C4F8ED8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F35A7B2A-B181-40AE-9E56-5B27C4F8ED8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57AB18D8-1C61-4CD9-B99F-4B04F59CABAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57AB18D8-1C61-4CD9-B99F-4B04F59CABAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57AB18D8-1C61-4CD9-B99F-4B04F59CABAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57AB18D8-1C61-4CD9-B99F-4B04F59CABAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
