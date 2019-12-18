@@ -13,6 +13,7 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -27,6 +28,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 
+
 # Visual Studio 2015/2017 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot
@@ -39,9 +41,11 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+
 # NUNIT
 *.VisualState.xml
 TestResult.xml
+
 
 # Build Results of an ATL Project
 [Dd]ebugPS/
@@ -55,6 +59,7 @@ BenchmarkDotNet.Artifacts/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+
 **/Properties/launchSettings.json
 
 # StyleCop
@@ -63,6 +68,7 @@ StyleCopReport.xml
 # Files built by Visual Studio
 *_i.c
 *_p.c
+
 *_i.h
 *_h.h
 *.ilk
@@ -184,6 +190,7 @@ PublishScripts/
 
 # NuGet Packages
 *.nupkg
+
 # The packages folder can be ignored because of Package Restore
 **/[Pp]ackages/*
 # except build/, which is used as an MSBuild target.
@@ -208,6 +215,7 @@ BundleArtifacts/
 Package.StoreAssociation.xml
 _pkginfo.txt
 *.appx
+
 
 # Visual Studio cache files
 # files ending in .cache can be ignored
@@ -257,7 +265,9 @@ ServiceFabricBackup/
 *.bim.layout
 *.bim_*.settings
 *.rptproj.rsuser
+
 *- Backup*.rdl
+
 
 # Microsoft Fakes
 FakesAssemblies/
@@ -293,12 +303,14 @@ paket-files/
 # FAKE - F# Make
 .fake/
 
+
 # JetBrains Rider
 .idea/
 *.sln.iml
 
 # CodeRush
 .cr/
+
 # CodeRush personal settings
 .cr/personal
 
@@ -342,3 +354,4 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
