@@ -2,11 +2,11 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Dziedziczenie\Dziedziczenie.csproj" />
+    <ProjectReference Include="..\Dziedziczenie22\Dziedziczenie22.csproj" />
   </ItemGroup>
 
 </Project>
