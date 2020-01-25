@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dziedziczenie", "Dziedzicze
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dziedziczenie22", "Dziedziczenie22\Dziedziczenie22.csproj", "{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr000000", "pr00000\pr000000\pr000000.csproj", "{0668805E-6A71-4341-87A3-50A50BDEF0C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MS054486", "MS054486\MS054486.csproj", "{E7E65938-337E-4371-9EA6-09A95A769467}"
+	ProjectSection(ProjectDependencies) = postProject
+		{27EC5307-4930-4821-9DD6-58D6D181A300} = {27EC5307-4930-4821-9DD6-58D6D181A300}
+		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB} = {00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +27,10 @@ Global
 		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00668A89-5BE2-4522-A6B9-9BF34EFCEEDB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0668805E-6A71-4341-87A3-50A50BDEF0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0668805E-6A71-4341-87A3-50A50BDEF0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0668805E-6A71-4341-87A3-50A50BDEF0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0668805E-6A71-4341-87A3-50A50BDEF0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E65938-337E-4371-9EA6-09A95A769467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E65938-337E-4371-9EA6-09A95A769467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E65938-337E-4371-9EA6-09A95A769467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E65938-337E-4371-9EA6-09A95A769467}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
