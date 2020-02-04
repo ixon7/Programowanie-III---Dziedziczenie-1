@@ -32,6 +32,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR054397", "PR054397\PR0543
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WP54462", "WP54462\WP54462.csproj", "{155B2997-3EAF-4634-8BF4-928060BFA781}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WM052943", "WM052943\WM052943.csproj", "{8AB6DDF5-305B-4929-AEFB-A30380C5C251}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +100,10 @@ Global
 		{155B2997-3EAF-4634-8BF4-928060BFA781}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{155B2997-3EAF-4634-8BF4-928060BFA781}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{155B2997-3EAF-4634-8BF4-928060BFA781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB6DDF5-305B-4929-AEFB-A30380C5C251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB6DDF5-305B-4929-AEFB-A30380C5C251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB6DDF5-305B-4929-AEFB-A30380C5C251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB6DDF5-305B-4929-AEFB-A30380C5C251}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
