@@ -3,14 +3,12 @@ using Dziedziczenie;
 
 namespace NT055298
 {
-    public class SilnikBenzynowy
+    public class SilnikBenzynowy : SkrzyniaBiegow
     {
         public int MaxObroty { get; private set; }
         public int MinObroty { get; private set; }
 
         public int AktualneObroty = 1500;
-        public int AktualnyBieg = 1;
-        public int LiczbaBiegow { get; private set; }
 
         public void Obroty()
         {
