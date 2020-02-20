@@ -2,7 +2,7 @@
 using System;
 
 
-namespace ConsoleApp1
+namespace JS054475
 {
     class Program
     {
