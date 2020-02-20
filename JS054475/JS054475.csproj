@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Programowanie-III---Dziedziczenie3\Dziedziczenie\Dziedziczenie.csproj" />
     <ProjectReference Include="..\Dziedziczenie\Dziedziczenie.csproj" />
   </ItemGroup>
 
