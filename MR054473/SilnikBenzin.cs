@@ -3,11 +3,13 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-
-public class SilnikBenzin:Silnik
+namespace MR054473
 {
-	public  SilnikBenzin(int moc, double spalanie) : base(moc, spalanie, "poszedl!")
+        public class SilnikBenzin : Silnik
     {
-	}
+        public SilnikBenzin(int moc, double spalanie) : base(moc, spalanie, "poszedl!")
+        {
+        }
 
+    }
 }
