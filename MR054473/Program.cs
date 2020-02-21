@@ -8,7 +8,7 @@ namespace MR054473
         {
             SilnikElektryczny silnik = new SilnikElektryczny(50, 100,100);
             var auto = new Ford(silnik);
-            auto.Jedz(200);
+            auto.Jedz(300);
         }
     }
 }
