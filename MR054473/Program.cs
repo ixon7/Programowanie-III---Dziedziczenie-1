@@ -1,4 +1,5 @@
 ﻿using System;
+using Dziedziczenie;
 
 namespace MR054473
 {
@@ -6,9 +7,12 @@ namespace MR054473
     {
         static void Main(string[] args)
         {
-            SilnikElektryczny silnik = new SilnikElektryczny(50, 100,100);
-            var auto = new Ford(silnik);
-            auto.Jedz(300);
+            IPojazd FordBenzin = new Ford(new SilnikBenzin(487, 19.8));
+            IPojazd FordEco = new Ford(new SilnikEcoBoost(521, 17.8));
+
+            FordBenzin.Jedz(200);
+            FordEco.Jedz(300);
         }
+                  
     }
 }
